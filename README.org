@@ -1,0 +1,3 @@
+* When
+
+When is a small utility that keeps track of when you did something last. It writes the data to a simple yaml file.
