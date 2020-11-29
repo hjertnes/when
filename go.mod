@@ -1,4 +1,4 @@
-module git.sr.ht/~hjertnes/when
+module github.com/hjertnes/when
 
 go 1.15
 
